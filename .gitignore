@@ -1,0 +1,12 @@
+################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/DFS.AD.ActiveLink/v15
+bin/
+obj/
+Build/Output
+*.user
+/.vs
+/packages/*
+!/packages/repositories.config
